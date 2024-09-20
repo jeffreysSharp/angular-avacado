@@ -1,0 +1,297 @@
+﻿++Solution 'MinhaAPICompleta' ‎(3 of 3 projects)
+i:{00000000-0000-0000-0000-000000000000}:MinhaAPICompleta.sln
+++DevIO.Api
+i:{00000000-0000-0000-0000-000000000000}:DevIO.Api
+++Connected Services 
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>682
+++Dependencies
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>681
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:>435
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:>434
+++Properties
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\properties\
+++wwwroot
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\
+++Configuration
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\configuration\
+++Controllers
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\controllers\
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\v1\controllers\
+++Data
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\data\
+++Extensions
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\extensions\
+++Migrations
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\migrations\
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\migrations\
+++NewFolder
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\newfolder\
+++V1
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\v1\
+++ViewModels
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\viewmodels\
+++appsettings.Development.json
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\appsettings.development.json
+++appsettings.json
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\appsettings.json
+++appsettings.Production.Development.json
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\appsettings.production.development.json
+++appsettings.Production.json
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\appsettings.production.json
+++appsettings.Staging.json
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\appsettings.staging.json
+++Program.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\program.cs
+++Startup.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\startup.cs
+++No service dependencies discovered
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>683
+++Analyzers
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:analyzers
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:analyzers
+++Frameworks
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:frameworks
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:frameworks
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:frameworks
+++Packages
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:packages
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:packages
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:packages
+++Projects
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:projects
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:projects
+++launchSettings.json
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\properties\launchsettings.json
+++1dbbd291-279f-4743-a781-0c92a482bc2b_JQuery.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\1dbbd291-279f-4743-a781-0c92a482bc2b_jquery.jpg
+++1e723e03-a406-442b-b2c8-f4c561681379_CSS.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\1e723e03-a406-442b-b2c8-f4c561681379_css.jpg
+++2057025a-f902-4170-80ff-e5399b980b1d_Captura de Tela (1).png
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\2057025a-f902-4170-80ff-e5399b980b1d_captura de tela (1).png
+++2994c744-02d5-4b4a-98d1-e04ae8709e5c_Java.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\2994c744-02d5-4b4a-98d1-e04ae8709e5c_java.jpg
+++3b3a4389-55b4-48dd-ade9-f74d943ea5d3_Captura de Tela (2).png
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\3b3a4389-55b4-48dd-ade9-f74d943ea5d3_captura de tela (2).png
+++4677e4a2-c57e-42f9-8cef-7ea55aa92c33_Regex.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\4677e4a2-c57e-42f9-8cef-7ea55aa92c33_regex.jpg
+++6c87c6d3-a1fc-461c-a0ff-9024b1c67f20_Captura de Tela (3).png
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\6c87c6d3-a1fc-461c-a0ff-9024b1c67f20_captura de tela (3).png
+++734ed7ec-23c7-4b6a-80ea-9cbf445a6729_HTML.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\734ed7ec-23c7-4b6a-80ea-9cbf445a6729_html.jpg
+++846c4617-ea96-404b-b130-e68445e09835_Java.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\846c4617-ea96-404b-b130-e68445e09835_java.jpg
+++8a405015-070a-43aa-9bc2-0256b3112e60_ingrid foto.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\8a405015-070a-43aa-9bc2-0256b3112e60_ingrid foto.jpg
+++8c72db30-ea36-4662-95d4-3cc3ee95eb41_Captura de Tela (1).png
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\8c72db30-ea36-4662-95d4-3cc3ee95eb41_captura de tela (1).png
+++9e2b29e2-f7e6-4fbf-8696-761ebd462f47_MVC5.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\9e2b29e2-f7e6-4fbf-8696-761ebd462f47_mvc5.jpg
+++b5176f00-05f1-44bb-9e3a-5b4c3e20c9c1_Captura de Tela (3).png
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\b5176f00-05f1-44bb-9e3a-5b4c3e20c9c1_captura de tela (3).png
+++b6d531c7-f75c-48f5-bb36-a2132112fc5b_ingrid foto.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\b6d531c7-f75c-48f5-bb36-a2132112fc5b_ingrid foto.jpg
+++cc0a711a-a172-48a1-ab69-b074b572321b_Razor.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\cc0a711a-a172-48a1-ab69-b074b572321b_razor.jpg
+++JS.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\js.jpg
+++JSN.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\jsn.jpg
+++LINQ.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\linq.jpg
+++Node.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\node.jpg
+++Python.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\python.jpg
+++Unix.jpg
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\wwwroot\unix.jpg
+++ApiConfig.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\configuration\apiconfig.cs
+++AutomapperConfig.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\configuration\automapperconfig.cs
+++DependencyInjectionConfig.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\configuration\dependencyinjectionconfig.cs
+++IdentityConfig.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\configuration\identityconfig.cs
+++SwaggerConfig.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\configuration\swaggerconfig.cs
+++MainController.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\controllers\maincontroller.cs
+++ApplicationDbContext.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\data\applicationdbcontext.cs
+++AppSettings.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\extensions\appsettings.cs
+++AspNetUser.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\extensions\aspnetuser.cs
+++CustomAuthorize.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\extensions\customauthorize.cs
+++ExceptionMiddleware.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\extensions\exceptionmiddleware.cs
+++IdentityMensagensPortugues.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\extensions\identitymensagensportugues.cs
+++20190520144906_Identity.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\migrations\20190520144906_identity.cs
+++ApplicationDbContextModelSnapshot.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\migrations\applicationdbcontextmodelsnapshot.cs
+++EnderecoViewModel.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\viewmodels\enderecoviewmodel.cs
+++FornecedorViewModel.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\viewmodels\fornecedorviewmodel.cs
+++ProdutoViewModel.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\viewmodels\produtoviewmodel.cs
+++UserViewModel.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\viewmodels\userviewmodel.cs
+++Microsoft.AspNetCore.Analyzers
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\program files\dotnet\sdk\6.0.202\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\users\jeferson.almeida\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\users\jeferson.almeida\.nuget\packages\microsoft.entityframeworkcore.analyzers\3.1.4\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\microsoft.netcore.app
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\microsoft.netcore.app
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\microsoft.netcore.app
+++AspNetCore.HealthChecks.SqlServer (3.1.1)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>712
+++AspNetCore.HealthChecks.UI (3.1.0)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>718
+++AutoMapper.Extensions.Microsoft.DependencyInjection (7.0.0)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>710
+++Elmah.Io.AspNetCore (3.8.103)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>719
+++Elmah.Io.AspNetCore.HealthChecks (3.8.103)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>706
+++Elmah.Io.Extensions.Logging (3.6.62)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>721
+++Microsoft.AspNetCore.Authentication.JwtBearer (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>716
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>713
+++Microsoft.AspNetCore.Identity.UI (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>720
+++Microsoft.AspNetCore.Mvc.Versioning (4.1.1)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>704
+++Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer (4.1.1)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>708
+++Microsoft.EntityFrameworkCore (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>707
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:>691
+++Microsoft.EntityFrameworkCore.Abstractions (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>715
+++Microsoft.EntityFrameworkCore.Relational (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>714
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:>693
+++Microsoft.EntityFrameworkCore.SqlServer (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>709
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:>692
+++Microsoft.Extensions.Diagnostics.HealthChecks (3.1.4)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>705
+++Microsoft.VisualStudio.Azure.Containers.Tools.Targets (1.10.8)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>717
+++Swashbuckle.AspNetCore (5.4.1)
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:>711
+++DevIO.Business
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\devio.business.csproj
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\devio.business.csproj
+i:{00000000-0000-0000-0000-000000000000}:DevIO.Business
+++DevIO.Data
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\devio.data.csproj
+i:{00000000-0000-0000-0000-000000000000}:DevIO.Data
+++20190520144906_Identity.Designer.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\migrations\20190520144906_identity.designer.cs
+++AuthController.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\v1\controllers\authcontroller.cs
+++FornecedoresController.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\v1\controllers\fornecedorescontroller.cs
+++ProdutosController.cs
+i:{bf5d5886-ce54-48df-a565-68752d66467f}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.api\v1\controllers\produtoscontroller.cs
+++Context
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\context\
+++Mappings
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\mappings\
+++Repository
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\repository\
+++MeuDbContext.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\context\meudbcontext.cs
+++EnderecoMapping.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\mappings\enderecomapping.cs
+++FornecedorMapping.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\mappings\fornecedormapping.cs
+++ProdutoMapping.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\mappings\produtomapping.cs
+++20190503042709_Initial.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\migrations\20190503042709_initial.cs
+++MeuDbContextModelSnapshot.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\migrations\meudbcontextmodelsnapshot.cs
+++EnderecoRepository.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\repository\enderecorepository.cs
+++FornecedorRepository.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\repository\fornecedorrepository.cs
+++ProdutoRepository.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\repository\produtorepository.cs
+++Repository.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\repository\repository.cs
+++20190503042709_Initial.Designer.cs
+i:{2e5706cc-d799-40e0-a220-02030fcec8df}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.data\migrations\20190503042709_initial.designer.cs
+++Intefaces
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\
+++Models
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\
+++Notificacoes
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\notificacoes\
+++Services
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\services\
+++IEnderecoRepository.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\ienderecorepository.cs
+++IFornecedorRepository.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\ifornecedorrepository.cs
+++IFornecedorService.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\ifornecedorservice.cs
+++INotificador.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\inotificador.cs
+++IProdutoRepository.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\iprodutorepository.cs
+++IProdutoService.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\iprodutoservice.cs
+++IRepository.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\irepository.cs
+++IUser.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\intefaces\iuser.cs
+++Validations
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\validations\
+++Endereco.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\endereco.cs
+++Entity.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\entity.cs
+++Fornecedor.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\fornecedor.cs
+++Produto.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\produto.cs
+++TipoFornecedor.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\tipofornecedor.cs
+++Notificacao.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\notificacoes\notificacao.cs
+++Notificador.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\notificacoes\notificador.cs
+++BaseService.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\services\baseservice.cs
+++FornecedorService.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\services\fornecedorservice.cs
+++ProdutoService.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\services\produtoservice.cs
+++FluentValidation (8.6.2)
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:>690
+++Documentos
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\validations\documentos\
+++EnderecoValidation.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\validations\enderecovalidation.cs
+++FornecedorValidation.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\validations\fornecedorvalidation.cs
+++ProdutoValidation.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\validations\produtovalidation.cs
+++ValidacaoDocs.cs
+i:{b5d3bd05-b65e-405d-8fec-45f38f4d3ddf}:c:\study\formacaofullstack\front-end\angular\devavancadoangular\projetos\projetofinal\back-end\src\devio.business\models\validations\documentos\validacaodocs.cs
