@@ -165,3 +165,18 @@ Starter Kit - Projeto desenvolvido em .NET Core 3.1 + Angular 13 + SQL Server
  Deploy no IIS
  
  Deploy no Docker
+
+ # back-end
+ Autenticação
+ 
+ Permição
+ 
+ Autorização
+ 
+ Indentity
+ 
+ JWT
+ 
+ CRUD Fornecedores / Endereços
+ 
+ CRUD Produtos
